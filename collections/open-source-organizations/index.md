@@ -29,6 +29,8 @@ items:
  - fairfield-programming/fairfield-programming.github.io
  - komodorio/helm-dashboard
  - devtron-labs/devtron
+ - socialincome-san/public
+ - Aiven-Open
 display_name: Open source organizations
 created_by: benbalter
 image: open-source-organizations.png
